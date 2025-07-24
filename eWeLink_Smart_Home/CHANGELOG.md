@@ -1,5 +1,9 @@
 # Changelogs
 
+## v1.4.4
+
+-   Fix install dependencies
+
 ## v1.4.3
 
 -   Fix multi-channel device state bug
